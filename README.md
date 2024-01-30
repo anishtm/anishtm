@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 💻 Student | 🧠 Artificial Intelligence | 🌐 Computer Vision & Generative AI 
 
 ### 🚀 About Me
-- Studying Electronics, Communication & Information Engineering.
-- 🌱 I’m currently learning ...
+-  ✍️ Studying Electronics, Communication & Information Engineering.
+- 🌱 I’m currently learning and exploring the fascinating realms of Artificial Intelligence, focusing on Computer Vision and Generative AI.
+- 👨🏻‍💻  I’m currently working on something great (I hope).
 
 ### 🌐 Connect with Me
 
@@ -29,11 +30,11 @@ Here are some ideas to get you started:
 
 📧 Email: anishthapamagar2021@gmail.com
 
-
+<!--
 ### 📊 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anishtm&count_private=true&show_icons=true&include_all_commits=true)
-
+-->
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
