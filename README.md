@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 
 📧 Email: anishthapamagar2021@gmail.com
 
-
+<!--
 ### 📊 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bhimrazy&count_private=true&show_icons=true&include_all_commits=true)
+-->
 
 ### 🛠️ Technologies & Tools
 
@@ -39,10 +40,7 @@ Here are some ideas to get you started:
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React/Next.js](https://img.shields.io/badge/-React/Next.js-00599C?style=flat-square&logo=React)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-4B32C3?style=flat-square&logo=CircleCI)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-<
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=anishtm&color=blueviolet)
